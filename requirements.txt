@@ -2,4 +2,4 @@ fastapi[standard]
 uvicorn[standard]
 gunicorn
 pandas
-sklearn
+scikit-learn
